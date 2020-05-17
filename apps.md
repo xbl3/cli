@@ -40,6 +40,7 @@ curl "ipinfo.io"
 
 ## rippers
 ### ripme
+https://github.com/RipMeApp/ripme
 
 ### youtube-dl
 https://github.com/ytdl-org/youtube-dl
