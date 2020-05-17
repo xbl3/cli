@@ -1,23 +1,26 @@
-## Command line / propmpt / cmd / cli / dos /M$
+# Command line / propmpt / cmd / cli / dos /M$
 ***whatever the fuck they call it now***
 **Change their names more than any corp I know of**
 
-# rclone
+ ## Winders/M$ 
+ ## bins
+ 
+### rclone
 
-# gClone
+### gClone
 
-# 7zip/7za
+### 7zip/7za
 
-# wget *static
+### wget ***static***
 
-# curl
+### curl ***default included***
 
-# ripme
+### ripme
 
 
 
 ## python
 
-# google-images-download
+### google-images-download
 https://github.com/hardikvasa/google-images-download
 
